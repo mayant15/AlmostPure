@@ -10,6 +10,7 @@ Dolphin::Dolphin(string n, bool female){
     isFemale = female;
 }
 
+// Get lots of love from the Dolphin~
 int Dolphin::getLove(){
     return love;
 }
