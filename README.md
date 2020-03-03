@@ -12,3 +12,5 @@
 1. run 'g++ -o almostpure Dolphin.cpp Event.cpp main.cpp'
 
 #Now just ensure that the executable and the script.txt file are in the same folder and run the executable!
+
+Head over to issues to see some issues.
